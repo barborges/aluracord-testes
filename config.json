@@ -1,5 +1,5 @@
 {
-    "name": "Aluracord - Matrix (peas)",
+    "name": "Aluracord - Monstros S.A",
     "theme": {
       "colors": {
         "primary": {
@@ -9,9 +9,9 @@
           "300": "#7BC47F",
           "400": "#57AE5B",
           "500": "violet",
-          "600": "#2F8132",
+          "600": "darkviolet",
           "700": "#207227",
-          "800": "#0E5814",
+          "800": "#9400d3",
           "900": "#05400A"
         },
         "neutrals": {
