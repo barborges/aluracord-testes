@@ -51,7 +51,7 @@ export default function PaginaInicial() {
       >
         <Box
           styleSheet={{
-            opacity: 0.9,
+            opacity: 0.8,
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'space-between',

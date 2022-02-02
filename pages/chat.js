@@ -104,6 +104,7 @@ export default function ChatPage() {
         >
             <Box
                 styleSheet={{
+                    opacity: 0.8,
                     display: 'flex',
                     flexDirection: 'column',
                     flex: 1,
@@ -190,7 +191,7 @@ export default function ChatPage() {
                             contrastColor: appConfig.theme.colors.neutrals["#ffe4c4"],
                             mainColor: appConfig.theme.colors.primary[500],
                             mainColorLight: appConfig.theme.colors.primary[400],
-                            mainColorStrong: appConfig.theme.colors.primary[800],
+                            mainColorStrong: appConfig.theme.colors.primary[800]
                         }}
 
                     />
