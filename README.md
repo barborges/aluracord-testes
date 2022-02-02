@@ -1,3 +1,6 @@
-primeiro teste com react
+Primeiro teste com react
 
-incrementando um pouco de frontend no github
+Incrementando um pouco de frontend no github
+
+5 dias com a Imersão Alura - 28/01/22
+
